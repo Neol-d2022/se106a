@@ -7,9 +7,9 @@
 開課年度   | 106 年上學期
 學員姓名   | 黃政哲
 教師姓名   | 陳鍾誠
-上課教材   | [wiki](https://github.com/cccnqu/se106a/wiki)
+上課教材   | [wiki-official](https://github.com/cccnqu/se106a/wiki)
 程式範例   | [example](example)
 練習作業   | [exercise](exercise)
 專案作品   | [project](project)
 學習筆記   | [wiki](../../wiki)
-疑問解答   | [issue](https://github.com/cccnqu/se106a/issues)
+疑問解答   | [issue-official](https://github.com/cccnqu/se106a/issues)
